@@ -17,6 +17,10 @@ El archivo `.env` contiene la conexión a MongoDB Atlas y Oracle Autonomous.
 Debes completar estos valores:
 
 ```env
+MONGO_URI=mongodb+srv://db_user:password@travelnow.vm6whqg.mongodb.net/?appName=TravelNow
+MONGO_DB=travelnow
+MONGO_COLLECTION=reservas
+
 ORACLE_USER=travelnow_etl
 ORACLE_PASSWORD=TU_CLAVE_DEL_USUARIO
 ORACLE_DSN=travelnow_low
