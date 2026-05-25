@@ -1,0 +1,219 @@
+﻿id_reserva,nombre_cliente,destino,fecha_viaje,correo,plataforma,errores
+914,Jose Fuentes,Montevideo,2028-01-02,,Google Flights,correo inválido
+920,Carlos Morales,Bogota,,carlos.morales920@gmail.com,Travel Now,fecha_viaje inválida
+912,Fernanda Rojas,Santiago,,fernanda.rojas912@gmail.com,Booking,fecha_viaje inválida
+1036,Ignacio Herrera,,2026-11-01,ignacio.herrera1036@gmail.com,Despegar,destino vacío
+1005,Ana Reyes,Bogota,2026-10-04,sin@dominio,Google Flights,correo inválido
+1156,Paula Romero,Madrid,2028-08-28,sin@dominio,Despegar,correo inválido
+1111,Jose Rodriguez,Ciudad De Mexico,2028-03-22,correo,Travel Now,correo inválido
+945,Ignacio Fernandez,,2027-12-18,ignacio.fernandez945@gmail.com,Despegar,destino vacío
+971,Camila Silva,Quito,2026-07-10,sin@dominio,Despegar,correo inválido
+1033,Felipe Rojas,La Paz,,felipe.rojas1033@gmail.com,Google Flights,fecha_viaje inválida
+924,Maria Vargas,Madrid,2028-09-28,,Despegar,correo inválido
+1188,Maria Paredes,Paris,2028-03-22,sin@dominio,Google Flights,correo inválido
+1135,Valentina Paredes,,2026-10-24,valentina.paredes1135@gmail.com,Travel Now,destino vacío
+1061,Benjamin Rojas,,2027-07-01,benjamin.rojas1061@gmail.com,Kayak,destino vacío
+1067,Camila Martinez,,2027-07-03,camila.martinez1067@gmail.com,Travel Now,destino vacío
+1137,Juan Reyes,Rio De Janeiro,,juan.reyes1137@gmail.com,Despegar,fecha_viaje inválida
+1176,Jose Rojas,,2027-11-14,jose.rojas1176@gmail.com,Kayak,destino vacío
+919,Carlos Gomez,,2026-12-10,carlos.gomez919@gmail.com,Kayak,destino vacío
+1153,Diego Torres,Madrid,,diego.torres1153@gmail.com,Google Flights,fecha_viaje inválida
+1062,Sebastian Sanchez,Lisboa,,sebastian.sanchez1062@gmail.com,Kayak,fecha_viaje inválida
+1106,Matias Lopez,Montevideo,2028-04-23,,Booking,correo inválido
+1047,Fernanda Romero,Punta Cana,,fernanda.romero1047@gmail.com,Google Flights,fecha_viaje inválida
+984,Javiera Sanchez,,2027-09-19,javiera.sanchez984@gmail.com,Google Flights,destino vacío
+1021,Matias Martinez,Paris,,matias.martinez1021@gmail.com,Travel Now,fecha_viaje inválida
+962,Jose Herrera,,2027-12-21,jose.herrera962@gmail.com,Google Flights,destino vacío
+1001,Diego Paredes,,2028-04-23,diego.paredes1001@gmail.com,Kayak,destino vacío
+1020,Valentina Lopez,Buenos Aires,,valentina.lopez1020@gmail.com,Travel Now,fecha_viaje inválida
+1145,Ignacio Martinez,Montevideo,2028-07-24,sin@dominio,Kayak,correo inválido
+915,Fernanda Fuentes,Roma,2027-09-11,,Booking,correo inválido
+946,Fernanda Sanchez,Miami,,fernanda.sanchez946@gmail.com,Travel Now,fecha_viaje inválida
+1177,Ignacio Fernandez,Miami,,ignacio.fernandez1177@gmail.com,Kayak,fecha_viaje inválida
+1189,Sofia Fernandez,,2026-07-12,sofia.fernandez1189@gmail.com,Google Flights,destino vacío
+910,Jose Sanchez,,2028-06-27,jose.sanchez910@gmail.com,Kayak,destino vacío
+929,Valentina Fuentes,,2026-05-29,valentina.fuentes929@gmail.com,Despegar,destino vacío
+1053,Camila Castro,Barcelona,2028-04-16,correo,Kayak,correo inválido
+1090,Javiera Vargas,Santiago,,javiera.vargas1090@gmail.com,Travel Now,fecha_viaje inválida
+1139,Sofia Silva,Ciudad De Mexico,2027-01-12,sin@dominio,Kayak,correo inválido
+936,Carlos Diaz,Madrid,2027-07-20,,Kayak,correo inválido
+1172,Sebastian Diaz,Punta Cana,2028-06-12,malcorreo.com,Booking,correo inválido
+1103,Felipe Paredes,Ciudad De Mexico,2028-01-17,,Travel Now,correo inválido
+1048,Felipe Reyes,Ciudad De Mexico,,felipe.reyes1048@gmail.com,Booking,fecha_viaje inválida
+1163,Ana Martinez,,2027-11-22,ana.martinez1163@gmail.com,Kayak,destino vacío
+904,Francisca Castro,Montevideo,2026-08-14,sin@dominio,Booking,correo inválido
+1071,Carlos Castro,,2026-09-11,carlos.castro1071@gmail.com,Despegar,destino vacío
+1133,Carlos Gomez,Cancun,,carlos.gomez1133@gmail.com,Google Flights,fecha_viaje inválida
+1029,Felipe Silva,Barcelona,,felipe.silva1029@gmail.com,Kayak,fecha_viaje inválida
+1116,Carlos Lopez,,2027-12-19,carlos.lopez1116@gmail.com,Google Flights,destino vacío
+1054,Benjamin Castro,Berlin,2028-04-12,malcorreo.com,Despegar,correo inválido
+948,Jose Fuentes,Cancun,,jose.fuentes948@gmail.com,Kayak,fecha_viaje inválida
+1150,Daniela Reyes,Montevideo,2028-07-25,sin@dominio,Travel Now,correo inválido
+1052,Diego Castro,Cancun,,diego.castro1052@gmail.com,Kayak,fecha_viaje inválida
+978,Matias Fuentes,Lisboa,2027-10-17,,Travel Now,correo inválido
+1194,Juan Herrera,La Paz,,juan.herrera1194@gmail.com,Google Flights,fecha_viaje inválida
+1084,Camila Silva,Bogota,2027-12-31,malcorreo.com,Booking,correo inválido
+1007,Diego Fernandez,,2027-12-12,diego.fernandez1007@gmail.com,Booking,destino vacío
+1092,Matias Araya,Lisboa,,matias.araya1092@gmail.com,Travel Now,fecha_viaje inválida
+1191,Daniela Silva,Rio De Janeiro,,daniela.silva1191@gmail.com,Despegar,fecha_viaje inválida
+1197,Sebastian Sanchez,Barcelona,2028-05-25,sin@dominio,Despegar,correo inválido
+1002,Carlos Paredes,,2027-08-24,carlos.paredes1002@gmail.com,Booking,destino vacío
+968,Javiera Silva,Montevideo,,javiera.silva968@gmail.com,Kayak,fecha_viaje inválida
+925,Maria Silva,,2028-03-29,maria.silva925@gmail.com,Booking,destino vacío
+947,Diego Lopez,Buenos Aires,,diego.lopez947@gmail.com,Google Flights,fecha_viaje inválida
+1114,Catalina Romero,Montevideo,2028-10-07,malcorreo.com,Kayak,correo inválido
+1086,Valentina Herrera,,2028-04-09,valentina.herrera1086@gmail.com,Travel Now,destino vacío
+1152,Benjamin Gomez,,2028-06-08,benjamin.gomez1152@gmail.com,Travel Now,destino vacío
+957,Maria Gomez,Ciudad De Mexico,2028-02-17,,Booking,correo inválido
+923,Juan Rojas,Lima,2027-11-27,malcorreo.com,Kayak,correo inválido
+1157,Camila Paredes,Lisboa,2026-09-22,,Google Flights,correo inválido
+1093,Matias Vargas,,2028-02-16,matias.vargas1093@gmail.com,Despegar,destino vacío
+909,Jose Herrera,La Paz,2028-07-31,,Despegar,correo inválido
+1185,Maria Gomez,,2028-02-28,maria.gomez1185@gmail.com,Booking,destino vacío
+1198,Sebastian Perez,Quito,,sebastian.perez1198@gmail.com,Kayak,fecha_viaje inválida
+1109,Sebastian Sanchez,Berlin,,sebastian.sanchez1109@gmail.com,Kayak,fecha_viaje inválida
+907,Sofia Rodriguez,Lisboa,,sofia.rodriguez907@gmail.com,Kayak,fecha_viaje inválida
+1179,Javiera Paredes,Roma,,javiera.paredes1179@gmail.com,Booking,fecha_viaje inválida
+1035,Sofia Sanchez,Cancun,,sofia.sanchez1035@gmail.com,Booking,fecha_viaje inválida
+955,Camila Torres,Rio De Janeiro,,camila.torres955@gmail.com,Kayak,fecha_viaje inválida
+986,Daniela Herrera,Buenos Aires,,daniela.herrera986@gmail.com,Despegar,fecha_viaje inválida
+1072,Daniela Lopez,Rio De Janeiro,2028-09-19,sin@dominio,Kayak,correo inválido
+1012,Valentina Silva,,2027-04-16,valentina.silva1012@gmail.com,Booking,destino vacío
+1100,Daniela Rojas,Barcelona,,daniela.rojas1100@gmail.com,Google Flights,fecha_viaje inválida
+1023,Daniela Reyes,,2026-07-08,daniela.reyes1023@gmail.com,Kayak,destino vacío
+1087,Ignacio Lopez,Montevideo,,ignacio.lopez1087@gmail.com,Kayak,fecha_viaje inválida
+1068,Paula Herrera,La Paz,2027-01-25,,Google Flights,correo inválido
+1006,Javiera Rojas,Quito,2028-01-03,sin@dominio,Booking,correo inválido
+1115,Fernanda Gomez,,2027-09-23,fernanda.gomez1115@gmail.com,Kayak,destino vacío
+958,Benjamin Vargas,Cancun,,benjamin.vargas958@gmail.com,Booking,fecha_viaje inválida
+949,Sofia Diaz,Paris,2027-02-07,,Despegar,correo inválido
+994,Catalina Morales,Rio De Janeiro,2028-01-30,malcorreo.com,Kayak,correo inválido
+1186,Javiera Herrera,Miami,,javiera.herrera1186@gmail.com,Kayak,fecha_viaje inválida
+928,Carlos Diaz,Madrid,,carlos.diaz928@gmail.com,Kayak,fecha_viaje inválida
+901,Paula Gomez,Berlin,2027-09-13,,Google Flights,correo inválido
+1161,Paula Gomez,,2027-03-19,paula.gomez1161@gmail.com,Travel Now,destino vacío
+1169,Javiera Morales,Berlin,2026-09-12,correo,Google Flights,correo inválido
+1192,Sebastian Castro,,2027-07-16,sebastian.castro1192@gmail.com,Despegar,destino vacío
+972,Juan Martinez,Punta Cana,2026-05-30,,Booking,correo inválido
+1102,Benjamin Gomez,,2027-09-22,benjamin.gomez1102@gmail.com,Kayak,destino vacío
+1094,Carlos Castro,,2028-08-21,carlos.castro1094@gmail.com,Despegar,destino vacío
+1011,Sofia Vargas,,2026-09-13,sofia.vargas1011@gmail.com,Despegar,destino vacío
+1108,Juan Perez,Quito,2028-02-13,,Kayak,correo inválido
+951,Felipe Vargas,Punta Cana,,felipe.vargas951@gmail.com,Travel Now,fecha_viaje inválida
+996,Paula Romero,Santiago,2027-11-28,correo,Kayak,correo inválido
+1081,Daniela Perez,Roma,2027-03-12,sin@dominio,Booking,correo inválido
+1140,Javiera Araya,,2026-07-13,javiera.araya1140@gmail.com,Booking,destino vacío
+927,Benjamin Araya,Montevideo,2028-08-28,sin@dominio,Travel Now,correo inválido
+931,Valentina Rodriguez,Paris,2026-11-26,,Travel Now,correo inválido
+1078,Ana Sanchez,La Paz,2027-11-27,malcorreo.com,Kayak,correo inválido
+1049,Ana Rojas,,2027-03-01,ana.rojas1049@gmail.com,Travel Now,destino vacío
+1120,Sebastian Fuentes,,2026-09-28,sebastian.fuentes1120@gmail.com,Google Flights,destino vacío
+1117,Ana Araya,,2028-08-08,ana.araya1117@gmail.com,Travel Now,destino vacío
+1149,Paula Rojas,Madrid,,paula.rojas1149@gmail.com,Google Flights,fecha_viaje inválida
+913,Ana Diaz,,2026-10-26,ana.diaz913@gmail.com,Google Flights,destino vacío
+956,Camila Vargas,,2026-06-06,camila.vargas956@gmail.com,Google Flights,destino vacío
+911,Juan Araya,Santiago,,juan.araya911@gmail.com,Booking,fecha_viaje inválida
+1164,Carlos Sanchez,Barcelona,2026-08-12,,Despegar,correo inválido
+988,Javiera Rojas,,2027-02-06,javiera.rojas988@gmail.com,Google Flights,destino vacío
+1129,Maria Reyes,,2027-01-17,maria.reyes1129@gmail.com,Google Flights,destino vacío
+1064,Jose Torres,Lima,2027-12-30,correo,Travel Now,correo inválido
+1015,Sebastian Herrera,Madrid,,sebastian.herrera1015@gmail.com,Booking,fecha_viaje inválida
+982,Jose Morales,Roma,,jose.morales982@gmail.com,Booking,fecha_viaje inválida
+1154,Francisca Sanchez,Miami,,francisca.sanchez1154@gmail.com,Travel Now,fecha_viaje inválida
+939,Sofia Araya,Bogota,,sofia.araya939@gmail.com,Booking,fecha_viaje inválida
+1091,Francisca Reyes,Quito,2027-08-19,sin@dominio,Google Flights,correo inválido
+1043,Matias Fernandez,,2026-10-22,matias.fernandez1043@gmail.com,Kayak,destino vacío
+1044,Camila Paredes,,2027-04-29,camila.paredes1044@gmail.com,Travel Now,destino vacío
+1026,Felipe Fuentes,Santiago,2026-06-02,malcorreo.com,Booking,correo inválido
+970,Francisca Rojas,,2027-06-28,francisca.rojas970@gmail.com,Despegar,destino vacío
+961,Maria Araya,Cancun,,maria.araya961@gmail.com,Despegar,fecha_viaje inválida
+926,Paula Torres,Bogota,2027-01-18,correo,Booking,correo inválido
+960,Francisca Rodriguez,Buenos Aires,2028-03-14,,Booking,correo inválido
+1070,Ignacio Rojas,,2027-07-05,ignacio.rojas1070@gmail.com,Booking,destino vacío
+979,Ana Diaz,,2026-10-03,ana.diaz979@gmail.com,Booking,destino vacío
+985,Diego Diaz,,2028-06-09,diego.diaz985@gmail.com,Kayak,destino vacío
+1105,Francisca Perez,,2028-04-11,francisca.perez1105@gmail.com,Kayak,destino vacío
+1027,Sofia Reyes,La Paz,2026-07-23,,Travel Now,correo inválido
+1125,Matias Lopez,,2027-04-12,matias.lopez1125@gmail.com,Booking,destino vacío
+1170,Felipe Silva,,2027-12-23,felipe.silva1170@gmail.com,Kayak,destino vacío
+921,Ana Paredes,,2027-04-05,ana.paredes921@gmail.com,Google Flights,destino vacío
+908,Matias Reyes,,2028-06-20,matias.reyes908@gmail.com,Booking,destino vacío
+953,Ignacio Rojas,Montevideo,2027-04-09,correo,Travel Now,correo inválido
+1037,Camila Torres,Bogota,2028-05-28,correo,Google Flights,correo inválido
+1131,Maria Silva,Berlin,,maria.silva1131@gmail.com,Booking,fecha_viaje inválida
+1025,Sofia Martinez,Roma,,sofia.martinez1025@gmail.com,Kayak,fecha_viaje inválida
+1039,Francisca Herrera,,2027-05-13,francisca.herrera1039@gmail.com,Travel Now,destino vacío
+1187,Ana Castro,Bogota,2027-11-21,sin@dominio,Travel Now,correo inválido
+1119,Catalina Sanchez,,2026-08-23,catalina.sanchez1119@gmail.com,Kayak,destino vacío
+974,Benjamin Sanchez,,2026-09-24,benjamin.sanchez974@gmail.com,Google Flights,destino vacío
+937,Juan Rojas,,2027-08-09,juan.rojas937@gmail.com,Google Flights,destino vacío
+1014,Ana Torres,Punta Cana,2027-06-27,sin@dominio,Kayak,correo inválido
+1055,Maria Vargas,Cancun,,maria.vargas1055@gmail.com,Google Flights,fecha_viaje inválida
+1045,Valentina Morales,Montevideo,,valentina.morales1045@gmail.com,Booking,fecha_viaje inválida
+973,Sebastian Fernandez,,2027-07-27,sebastian.fernandez973@gmail.com,Kayak,destino vacío
+938,Felipe Araya,,2027-05-10,felipe.araya938@gmail.com,Booking,destino vacío
+1146,Juan Martinez,Paris,2028-06-12,malcorreo.com,Google Flights,correo inválido
+1168,Maria Herrera,Buenos Aires,,maria.herrera1168@gmail.com,Despegar,fecha_viaje inválida
+1112,Maria Perez,Ciudad De Mexico,2027-09-25,,Despegar,correo inválido
+1165,Sofia Diaz,Punta Cana,,sofia.diaz1165@gmail.com,Travel Now,fecha_viaje inválida
+1181,Fernanda Sanchez,Punta Cana,2027-03-12,correo,Google Flights,correo inválido
+1166,Ignacio Herrera,Ciudad De Mexico,2028-09-15,sin@dominio,Despegar,correo inválido
+1038,Francisca Vargas,Paris,,francisca.vargas1038@gmail.com,Travel Now,fecha_viaje inválida
+1066,Juan Herrera,Miami,2028-08-15,correo,Travel Now,correo inválido
+1075,Javiera Araya,Berlin,2027-03-13,malcorreo.com,Booking,correo inválido
+1122,Carlos Martinez,,2028-01-27,carlos.martinez1122@gmail.com,Google Flights,destino vacío
+1056,Catalina Fernandez,Nueva York,2027-10-08,correo,Travel Now,correo inválido
+1136,Camila Fuentes,Lima,,camila.fuentes1136@gmail.com,Google Flights,fecha_viaje inválida
+991,Matias Lopez,Rio De Janeiro,,matias.lopez991@gmail.com,Booking,fecha_viaje inválida
+1127,Jose Castro,Rio De Janeiro,2027-05-21,malcorreo.com,Kayak,correo inválido
+941,Sebastian Fuentes,,2028-05-13,sebastian.fuentes941@gmail.com,Booking,destino vacío
+1051,Carlos Fernandez,,2027-08-03,carlos.fernandez1051@gmail.com,Google Flights,destino vacío
+976,Jose Perez,Ciudad De Mexico,2026-06-17,sin@dominio,Despegar,correo inválido
+1144,Diego Silva,Lima,,diego.silva1144@gmail.com,Kayak,fecha_viaje inválida
+932,Camila Silva,,2027-11-19,camila.silva932@gmail.com,Google Flights,destino vacío
+943,Francisca Reyes,Lima,2027-08-30,correo,Travel Now,correo inválido
+1080,Sebastian Fernandez,Rio De Janeiro,,sebastian.fernandez1080@gmail.com,Google Flights,fecha_viaje inválida
+916,Felipe Araya,La Paz,2028-05-22,correo,Kayak,correo inválido
+942,Juan Martinez,Lima,,juan.martinez942@gmail.com,Google Flights,fecha_viaje inválida
+1097,Matias Araya,Lisboa,2026-12-29,sin@dominio,Kayak,correo inválido
+959,Felipe Rodriguez,Madrid,,felipe.rodriguez959@gmail.com,Travel Now,fecha_viaje inválida
+967,Carlos Araya,Rio De Janeiro,,carlos.araya967@gmail.com,Travel Now,fecha_viaje inválida
+992,Felipe Herrera,,2026-07-02,felipe.herrera992@gmail.com,Travel Now,destino vacío
+1085,Camila Sanchez,,2028-02-28,camila.sanchez1085@gmail.com,Despegar,destino vacío
+977,Valentina Fernandez,Miami,,valentina.fernandez977@gmail.com,Travel Now,fecha_viaje inválida
+1046,Paula Reyes,Miami,,paula.reyes1046@gmail.com,Kayak,fecha_viaje inválida
+1096,Valentina Romero,,2028-02-26,valentina.romero1096@gmail.com,Booking,destino vacío
+922,Felipe Fernandez,Madrid,,felipe.fernandez922@gmail.com,Travel Now,fecha_viaje inválida
+1019,Ignacio Reyes,Ciudad De Mexico,2028-01-08,,Travel Now,correo inválido
+903,Catalina Rodriguez,Montevideo,2026-08-18,,Google Flights,correo inválido
+1010,Sebastian Paredes,,2026-09-02,sebastian.paredes1010@gmail.com,Google Flights,destino vacío
+1190,Camila Araya,Miami,,camila.araya1190@gmail.com,Despegar,fecha_viaje inválida
+1148,Benjamin Castro,,2026-12-10,benjamin.castro1148@gmail.com,Booking,destino vacío
+1089,Valentina Morales,,2027-07-26,valentina.morales1089@gmail.com,Kayak,destino vacío
+1050,Matias Rodriguez,Bogota,2027-11-01,malcorreo.com,Kayak,correo inválido
+1200,Daniela Perez,Berlin,,daniela.perez1200@gmail.com,Travel Now,fecha_viaje inválida
+989,Sebastian Araya,,2026-10-28,sebastian.araya989@gmail.com,Travel Now,destino vacío
+993,Sebastian Diaz,Montevideo,2028-06-30,,Despegar,correo inválido
+1141,Catalina Fernandez,La Paz,2028-01-14,malcorreo.com,Despegar,correo inválido
+1138,Sofia Torres,Lisboa,,sofia.torres1138@gmail.com,Travel Now,fecha_viaje inválida
+1130,Daniela Reyes,Montevideo,2027-08-25,,Booking,correo inválido
+1118,Carlos Martinez,,2026-12-14,carlos.martinez1118@gmail.com,Google Flights,destino vacío
+906,Diego Rojas,,2026-10-09,diego.rojas906@gmail.com,Google Flights,destino vacío
+998,Valentina Vargas,,2028-04-27,valentina.vargas998@gmail.com,Travel Now,destino vacío
+965,Diego Araya,Santiago,,diego.araya965@gmail.com,Google Flights,fecha_viaje inválida
+1143,Valentina Castro,,2027-02-08,valentina.castro1143@gmail.com,Kayak,destino vacío
+930,Jose Lopez,Cancun,,jose.lopez930@gmail.com,Despegar,fecha_viaje inválida
+950,Paula Gomez,Lisboa,,paula.gomez950@gmail.com,Kayak,fecha_viaje inválida
+1059,Sebastian Rojas,,2028-01-24,sebastian.rojas1059@gmail.com,Travel Now,destino vacío
+1042,Felipe Reyes,Berlin,2026-06-23,sin@dominio,Kayak,correo inválido
+1171,Matias Rodriguez,Miami,,matias.rodriguez1171@gmail.com,Booking,fecha_viaje inválida
+1199,Jose Araya,Montevideo,,jose.araya1199@gmail.com,Travel Now,fecha_viaje inválida
+995,Carlos Perez,Paris,,carlos.perez995@gmail.com,Booking,fecha_viaje inválida
+918,Maria Diaz,Barcelona,2028-06-03,sin@dominio,Kayak,correo inválido
+1018,Camila Lopez,Nueva York,2027-05-05,,Despegar,correo inválido
+1041,Diego Romero,Montevideo,2026-07-20,sin@dominio,Travel Now,correo inválido
+1031,Sebastian Martinez,,2027-02-12,sebastian.martinez1031@gmail.com,Travel Now,destino vacío
+980,Maria Lopez,Ciudad De Mexico,,maria.lopez980@gmail.com,Travel Now,fecha_viaje inválida
+1040,Benjamin Martinez,La Paz,2028-05-17,malcorreo.com,Kayak,correo inválido
+1063,Fernanda Vargas,Lima,,fernanda.vargas1063@gmail.com,Kayak,fecha_viaje inválida
+944,Javiera Castro,Roma,,javiera.castro944@gmail.com,Google Flights,fecha_viaje inválida

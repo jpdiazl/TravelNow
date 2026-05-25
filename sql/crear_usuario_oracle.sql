@@ -1,0 +1,3 @@
+CREATE USER travelnow_etl IDENTIFIED BY TravelNow2026;
+GRANT CONNECT, RESOURCE TO travelnow_etl;
+ALTER USER travelnow_etl QUOTA UNLIMITED ON DATA;
